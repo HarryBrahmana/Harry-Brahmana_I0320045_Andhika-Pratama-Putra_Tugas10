@@ -1,0 +1,12 @@
+Nama : Harry Brahmana
+Umur : 19
+Alamat : Kjahe
+Hobi : OlahrahaNama : Ivan
+Umur : 19
+Alamat : Solo
+Hobi : Musik
+
+Nama : Ivan
+Umur : 19
+Alamat : Jawa tengah
+Hobi : musik
