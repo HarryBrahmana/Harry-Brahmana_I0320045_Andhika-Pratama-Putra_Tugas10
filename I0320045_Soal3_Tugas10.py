@@ -16,7 +16,7 @@ umur = int(input("Umur : "))
 alamat = input("Alamat Tinggal : ")
 hobi = input("Hobi : ")
 
-teks = f"Nama : {nama}\nUmur : {umur}\nAlamat : {alamat}\nHobi : {hobi}"
+teks = f"\n\nNama : {nama}\nUmur : {umur}\nAlamat : {alamat}\nHobi : {hobi}"
 
 file = open("dir/biodata_diri.txt","a")
 file.write(teks)
